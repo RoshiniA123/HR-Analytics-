@@ -67,5 +67,4 @@ Developed an interactive HR Analytics dashboard that helps stakeholders monitor 
 
 ## 👩‍💻 Author
 
-**Roshini**  
-Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python | R | Statistics
+Roshini A
